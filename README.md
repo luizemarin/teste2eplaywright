@@ -22,3 +22,6 @@ Este repositório contém teste e2e utilizando [Playwright](https://playwright.d
   npm test
   ```
 Obs.: Esse script está configurado no arquivo package.json e irá rodar os testes
+
+## Referências
+- [Documentação do playwright](https://playwright.dev/docs/intro)
