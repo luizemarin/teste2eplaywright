@@ -1,0 +1,19 @@
+{
+  "name": "teste2eplaywright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js src/tests --require src/tests/steps --require src/tests/support"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.3.0",
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.29",
+    "playwright": "^1.52.0",
+    "ts-node": "^10.9.2"
+  }
+}
