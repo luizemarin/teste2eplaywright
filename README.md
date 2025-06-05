@@ -25,3 +25,4 @@ Obs.: Esse script está configurado no arquivo package.json e irá rodar os test
 
 ## Referências
 - [Documentação do playwright](https://playwright.dev/docs/intro)
+- [Documentação do gherkin](https://cucumber.io/docs/gherkin/)
