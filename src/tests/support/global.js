@@ -8,7 +8,7 @@ class Global {
   }
 
   async launchBrowser() {
-    this.browser = await chromium.launch({ headless: false });
+    this.browser = await chromium.launch({ headless: true });
   }
 
   async closeBrowser() {
